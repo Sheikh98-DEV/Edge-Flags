@@ -1,0 +1,12 @@
+edge://flags/
+
+Smooth Scrolling
+Experimental QUIC protocol
+Experimental JavaScript
+WebAssembly tiering
+Future V8 VM features
+GPU rasterization
+Show block option in autoplay settings
+Experimental Tracking Prevention Features
+Show Windows 11 visual effects in browser
+Boost screen refresh rate when scrolling
